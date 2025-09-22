@@ -1,5 +1,5 @@
 # Actividad-de-programaci-n-lll
-Estudiantes: Julio Alberto Funes Alfaro SMSS216923
+Estudiantes: Julio Alberto Funes Alfaro SMSS216923,
 Shelsy Rubi Melendez Rodriguesz SSMS096724
 
 
